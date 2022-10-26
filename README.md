@@ -14,6 +14,10 @@
 
 # About Us 
 
+![Screenshot from 2022-10-26 22-37-14](https://user-images.githubusercontent.com/83587933/198094090-a9f758bc-62cf-437c-a26f-a9c36f33d574.png)
+
+
+
 # Contact Page
 
 
@@ -24,9 +28,10 @@
 
 ![Screenshot from 2022-10-26 22-37-36](https://user-images.githubusercontent.com/83587933/198092388-438d4f3a-13c3-4a6e-8124-88b5c83990b2.png)
 
-
 # Register User
-![Screenshot from 2022-10-26 22-37-43](https://user-images.githubusercontent.com/83587933/198092716-1480e8ec-3982-4977-bd5c-b30151827713.png)
+
+![Screenshot from 2022-10-26 22-50-24](https://user-images.githubusercontent.com/83587933/198093891-5a1302e5-ee75-40f4-ad8b-b2c341ce51f4.png)
+
 
 # Cart
 ![Screenshot from 2022-10-26 22-37-52](https://user-images.githubusercontent.com/83587933/198092841-758e8448-c289-4b64-a2bf-7dcac0fb1ed2.png)
